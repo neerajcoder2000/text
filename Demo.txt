@@ -1,1 +1,3 @@
 To check git hub
+and git --v
+$ git --version
